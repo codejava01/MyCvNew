@@ -9,6 +9,6 @@ async function connect() {
   } catch (error) {
     console.log("DB connect fail !!");
   }
-}
+}fsd
 hfhfasdfsds fasd
 module.exports = { connect };
